@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+main {
+    display: flex;
+}
+
+#lewy {
+    background-color:blue;
+    width:30%;
+    height:500px;
+    flex-direction: column;
+}
+
+#prawy {
+    background-color:rgb(53, 161, 80);
+    width:70%;
+    height:500px;
+    flex-direction: column;
+}
+
+
+#prawy1 {
+    background-color:brown;
+    height: 50%;
+
+}
+
+#prawy2 {
+    background-color:coral;
+    height: 50%;
+
+}
+
+#podloga {
+    background-color: aqua;
+    width: 100%;
+height: 500px;
+}
+
